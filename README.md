@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/images/riftspire-bot.jpg" alt="Riftspire BOT Logo" width="200"/>
+  <img src="https://images.blocpow.io/riftspire-bot.jpg" alt="Riftspire BOT Logo" width="200"/>
   <h1 align="center">Riftspire BOT</h1>
   <p align="center">A powerful Discord bot for managing and monitoring Riftspire/Pterodactyl-based game servers.</p>
 </p>
