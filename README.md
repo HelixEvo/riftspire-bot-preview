@@ -9,7 +9,7 @@
 - 📊 Dash Server Stats — View real-time statistics about your core system  
 - 🌐 Node Stats — Monitor remote or local game nodes via Netdata  
 - 🎮 Game Server Stats — Track uptime, player count, MOD's, general game settings and resource usage
-- Automated Game and MOD updater with Discord feedback and in-game warnings/countdown
+- ⚙️ Automated Game and MOD updater with Discord feedback and in-game warnings/countdown
 - 📁 Backups & Restores — Create and restore backups per game server from Discord
 - 📤 Download Backups — Access saved backups via secure download from Discord
 - 💬 Global Chat Relay — Cross-post in-game global chat to Discord  
